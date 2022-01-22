@@ -1,2 +1,2 @@
 # Titanic--Kaggle
-My top 2% solution for Titanic competition. 
+My top 2% solution for the Titanic competition. 
